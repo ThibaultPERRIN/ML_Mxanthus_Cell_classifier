@@ -1,4 +1,4 @@
-# ML_Cell_classifier (*Internship / LCB - Myxoccocus xanthus*)
+# ML_Cell_classifier (*Internship / LCB (CNRS UMR7283)  - Myxoccocus xanthus*)
 
 Cell classifier for Myxococcus xanthus:
 - Image processing
